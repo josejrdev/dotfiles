@@ -1,0 +1,10 @@
+dwmblocks &
+
+~/scripts/wallpaper/set_wall.sh &
+dunst &
+
+~/scripts/notifications/wifi.sh &
+~/scripts/notifications/battery.sh &
+
+setxkbmap br &
+numlockx &
