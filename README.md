@@ -3,10 +3,11 @@ My Linux Dotfiles
 
 Programs:
 
-- [dwm] (window manager)
-- [dwmblocks] (statusbar)
-- [st] (terminal emulator)
-- [feh] (set wallpaper program)
-- [notify-send] (notification program)
-- [brightnessctl] (brightness level program)
-- [flameshot] (screenshot program)
+- [dwm] [https://dwm.suckless.org/] (window manager)
+- [dwmblocks] [https://github.com/torrinfail/dwmblocks] (statusbar)
+- [st] [https://st.suckless.org/] (terminal emulator)
+- [dmenu] [https://tools.suckless.org/dmenu/] (menu program)
+- [feh] [https://feh.finalrewind.org/] (set wallpaper program)
+- [notify-send] [https://gitlab.gnome.org/GNOME/libnotify] (notification program)
+- [brightnessctl] [https://github.com/Hummer12007/brightnessctl] (brightness level program)
+- [spectacle] [https://apps.kde.org/spectacle/] (screenshot program)
