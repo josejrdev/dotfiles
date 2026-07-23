@@ -117,7 +117,7 @@ static const Key keys[] = {
 	{ MODKEY,                       XK_F11,     spawn, SHCMD("~/scripts/exec_keybindings/volume5n.sh") },
 	{ MODKEY,                       XK_F10,     spawn, SHCMD("~/scripts/exec_keybindings/volumemute.sh") },
 	// Screenshot
-	{ 0,				XK_Print, spawn, SHCMD("flameshot gui") },
+	{ 0,				XK_Print, spawn, SHCMD("spectacle") },
 	// Brightness
 	{ MODKEY,                       XK_F6,     spawn, SHCMD("~/scripts/exec_keybindings/bright10y.sh") },
 	{ MODKEY,                       XK_F5,     spawn, SHCMD("~/scripts/exec_keybindings/bright10n.sh") },
